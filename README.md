@@ -1,4 +1,4 @@
-# Task Manager in React
+# TaskMaster in React
 A simple **task manager** web application written using the _MongoDB_, _Express_, _React_ and _Node.js_ stack. 
 A project conceived as plain practice material, in order for me to improve my **web development** and **JavaScript** skills/general understanding.
 
